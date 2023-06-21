@@ -61,29 +61,29 @@
         </div>
         <div id="techskills">
             <div class="container">
-                <div class="tech-skills">
-                    <h4><ins>TECHNICAL SKILLS</ins></h4>
-                    <div class="row pt-5">
-                        <div class="col"><i id="imo" class="fa-brands fa-html5 fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-css3 fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-bootstrap fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-square-js fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-vuejs fa-10x"></i></div>
-                    </div>
-                    <div class="row">
-                        <div class="col"><i id="imo" class="fa-brands fa-node fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="bi bi-filetype-sql fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-figma fa-10x pt-5"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-wordpress fa-10x pt-5"></i></div>
-                        <div class="col"><img class="pt-5 m-auto" style="width: 10rem;" id="imo"
-                            src="https://i.postimg.cc/xCPgXnv3/ui.png"></div>
-                    <div class="row">
-                        <div class="col"><i id="imo" class="fa-brands fa-sass fa-10x"></i></div>
-                        <div class="col"><i id="imo" class="fa-brands fa-php fa-10x"></i></div>
-                        <div class="col"><img class="pt-5 m-auto" style="width: 10rem; color: white" id="imo"
-                            src="https://i.postimg.cc/050WXdJH/seo-2.png"></div>
-                    </div>
-                    </div>
+                <h4><ins>TECHNICAL SKILLS</ins></h4>
+                <div class="row">
+                    <div class="col"><i id="imo" class="fa-brands fa-html5 fa-10x"></i></div>
+                    <div class="col"><i id="imo" class="fa-brands fa-css3 fa-10x"></i></div>
+                    <div class="col"><i id="imo" class="fa-brands fa-bootstrap fa-10x"></i></div>
+                    <div class="col"><i id="imo" class="fa-brands fa-square-js fa-10x"></i></div>
+                    <div class="col"><i id="imo" class="fa-brands fa-vuejs fa-10x"></i></div>
+                </div>
+                <div class="row">
+                    <div class="col"><i id="imo" class="fa-brands fa-node fa-10x pt-3"></i></div>
+                    <div class="col"><i id="imo" class="fa-solid fa-database fa-10x pt-4"></i></div>
+                    <div class="col"><i id="imo" class="fa-brands fa-figma fa-10x pt-4"></i></div>
+                    <div class="col"><i id="imo" class="fa-solid fa-laptop fa-10x pt-4"></i></div>
+                    <div class="col"><i id="imo" class="fa-brands fa-wordpress fa-10x pt-4"></i></div>
+                    <!-- <div class="col"><img class="pt-5 m-auto" style="width: 10rem;" id="imo"
+                            src="https://i.postimg.cc/xCPgXnv3/ui.png"></div> -->
+                </div>
+                <div class="row">
+                    <div class="col-2"><i id="mo" class="fa-brands fa-sass fa-10x pt-4"></i></div>
+                    <div class="col-3"><i id="mo" class="fa-brands fa-php fa-10x pt-4"></i></div>
+                    <div class="col-7"><i id="mo" class="fa-brands fa-searchengin fa-10x pt-4"></i></div>
+                    <!-- <div class="col"><img class="pt-5 m-auto" style="width: 10rem; color: white" id="imo"
+                            src="https://i.postimg.cc/050WXdJH/seo-2.png"></div> -->
                 </div>
             </div>
         </div>
@@ -108,10 +108,6 @@ export default {
 #techskills {
     height: 100vh;
     width: 100%;
-}
-
-.tech-skills {
-    padding: 40px 0 80px 0;
 }
 
 #border-edu {
@@ -159,5 +155,9 @@ i.imo:hover {
     border: 5px solid #00334C;
     margin-left: 140px;
     margin-right: 140px;
+}
+
+i#mo:hover {
+    color: #00FFA2;
 }
 </style>
