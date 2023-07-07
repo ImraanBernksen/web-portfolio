@@ -98,7 +98,7 @@ export default {
 </script>
 <style scoped>
 #project {
-    height: 200vh;
+    min-height: 200vh;
     width: 100%;
     background-color: #00FFA2;
     text-align: center;

@@ -62,7 +62,7 @@ export default {
 </script>
 <style scoped>
 #testimonials {
-    height: 200vh;
+    min-height: 200vh;
     width: 100%;
     background-color: black;
     color: white;

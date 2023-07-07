@@ -4,7 +4,7 @@
             <div class="wrapper pt-5">
                 <div class="row num1">
                     <div class="col-md-6 col-sm-6 home-text">
-                        <p class="text-start animate__animated animate__fadeInDown" id="myName" style="color: white;">
+                        <p class="text-start animate__animated animate__fadeInDown" id="myName" style="color: #00FFA2;">
                             PORTFOLIO</p>
                         <h4 class="slogan-now">MOGAMAD IMRAAN</h4>
                         <h4 class="slogan-now">BERNKSEN</h4>
@@ -36,7 +36,7 @@
                 <span style="--i:21">N</span>
               </div>
             </div> -->
-                        <p class="text-start animate__animated animate__fadeInUp" id="myName" style="color: white;">FULL
+                        <p class="text-start animate__animated animate__fadeInUp" id="myName" style="color: #00FFA2;">FULL
                             STACK WEB DEVELOPER</p>
                         <div class="home_extra">
                             <a href="https://drive.google.com/file/d/1g9irfMZecRrE4A0qfyu3VGDDTjJQXf39/view?usp=share_link"
@@ -155,7 +155,7 @@ export default {
 </script>
 <style scoped>
 #landing {
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     background-color: black;
     /*

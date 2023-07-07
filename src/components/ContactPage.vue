@@ -40,7 +40,7 @@ export default {
 </script>
 <style scoped>
 #contact {
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     background-color: #00FFA2;
     padding-bottom: 30px;

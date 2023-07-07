@@ -64,7 +64,7 @@ li {
 }
 
 nav {
-  background-color: #00FFA2;;
+  background-color: #00FFA2;
   box-shadow: 0px 0 10px rgba(1, 0, 0, 0.9);
   width: 100%;
   font-family: 'Playfair Display', serif;
@@ -78,7 +78,7 @@ a:hover {
   border-radius: 5px;
 }
 
-a.nav-link-active {
+a.a-active {
   color: gold;
   border-radius: 5px;
 }

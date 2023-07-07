@@ -63,25 +63,28 @@
             <div class="container">
                 <h4><ins>TECHNICAL SKILLS</ins></h4>
                 <div class="row">
-                    <div class="col"><i id="imo" class="fa-brands fa-html5 fa-10x"></i></div>
-                    <div class="col"><i id="imo" class="fa-brands fa-css3 fa-10x"></i></div>
-                    <div class="col"><i id="imo" class="fa-brands fa-bootstrap fa-10x"></i></div>
-                    <div class="col"><i id="imo" class="fa-brands fa-square-js fa-10x"></i></div>
-                    <div class="col"><i id="imo" class="fa-brands fa-vuejs fa-10x"></i></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-github fa-9x pt-4"></i><p>GIT</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-figma fa-9x pt-4"></i><p>FIGMA</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-html5 fa-9x"></i><p>HTML</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-css3 fa-9x"></i><p>CSS</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-bootstrap fa-9x"></i><p>BOOTSTRAP</p></div>
                 </div>
                 <div class="row">
-                    <div class="col"><i id="imo" class="fa-brands fa-node fa-10x pt-3"></i></div>
-                    <div class="col"><i id="imo" class="fa-solid fa-database fa-10x pt-4"></i></div>
-                    <div class="col"><i id="imo" class="fa-brands fa-figma fa-10x pt-4"></i></div>
-                    <div class="col"><i id="imo" class="fa-solid fa-laptop fa-10x pt-4"></i></div>
-                    <div class="col"><i id="imo" class="fa-brands fa-wordpress fa-10x pt-4"></i></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-square-js fa-9x"></i><p>JAVASCRIPT</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-vuejs fa-9x"></i><p>VUEJS</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-solid fa-database fa-9x pt-4"></i><p>MYSQL</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-node fa-9x pt-3"></i><p>NODE</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-solid fa-laptop fa-9x pt-4"></i><p>UI/UX</p></div>
                     <!-- <div class="col"><img class="pt-5 m-auto" style="width: 10rem;" id="imo"
-                            src="https://i.postimg.cc/xCPgXnv3/ui.png"></div> -->
+                        src="https://i.postimg.cc/xCPgXnv3/ui.png"></div> -->
                 </div>
                 <div class="row">
-                    <div class="col-2"><i id="mo" class="fa-brands fa-sass fa-10x pt-4"></i></div>
-                    <div class="col-3"><i id="mo" class="fa-brands fa-php fa-10x pt-4"></i></div>
-                    <div class="col-7"><i id="mo" class="fa-brands fa-searchengin fa-10x pt-4"></i></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-wordpress fa-9x pt-4"></i><p>WORDPRESS</p>
+                    </div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-sass fa-9x pt-4"></i><p>SASS</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-php fa-9x pt-4"></i><p>PHP</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-searchengin fa-9x pt-4"></i><p>SEO</p></div>
+
                     <!-- <div class="col"><img class="pt-5 m-auto" style="width: 10rem; color: white" id="imo"
                             src="https://i.postimg.cc/050WXdJH/seo-2.png"></div> -->
                 </div>
@@ -100,13 +103,17 @@ export default {
     color: white;
 }
 
+#skill_name {
+    text-align: center;
+}
+
 #edu_exp {
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
 #techskills {
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
@@ -120,14 +127,20 @@ export default {
 
 .border-expert:hover {
     background-color: #00FFA2;
+    color: black;
 }
 
 #border-edu:hover {
     background-color: #00FFA2;
+    color: black;
 }
 
 #expert {
     padding: 18.6px;
+}
+
+#expert:hover {
+    color: black;
 }
 
 .border-img {
