@@ -84,7 +84,6 @@
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-sass fa-9x pt-4"></i><p>SASS</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-php fa-9x pt-4"></i><p>PHP</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-searchengin fa-9x pt-4"></i><p>SEO</p></div>
-
                     <!-- <div class="col"><img class="pt-5 m-auto" style="width: 10rem; color: white" id="imo"
                             src="https://i.postimg.cc/050WXdJH/seo-2.png"></div> -->
                 </div>

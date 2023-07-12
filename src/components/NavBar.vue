@@ -18,6 +18,9 @@
                 <a class="nav-link" href="#resume">Resume</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="#techskills">Skills</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link"  href="#project">Project</a>
               </li>
               <li class="nav-item">
