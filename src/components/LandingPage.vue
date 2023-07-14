@@ -66,7 +66,7 @@
                                 </div>
                                 <div class="flip-box-back img-fluid">
                                     <img class="photo img-fluid"
-                                        src="https://i.postimg.cc/nV1L9kVN/IMG-20220810-221420-027.jpg" alt="logo">
+                                        src="https://i.postimg.cc/cJCMphbB/pp-img.jpg" alt="logo">
                                 </div>
                             </div>
                         </div>

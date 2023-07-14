@@ -90,6 +90,13 @@ export default {
             linkOne: "https://github.com/ImraanBernksen/quickloc8-test",
             projectText: "Quickloc8 Assessment",
             linkTwo: "https://quickloc8-test.web.app/",
+          },
+          {
+            imgSrc: "https://i.postimg.cc/PrQ8FvT4/spli-the-squad.png",
+            projectName: "Split The Squad",
+            linkOne: "https://github.com/ImraanBernksen/split_the_squad",
+            projectText: "Random Team Generator",
+            linkTwo: "https://split-the-squad-5920b.web.app/",
           }
         ]
       }
@@ -104,9 +111,6 @@ export default {
     text-align: center;
 }
 
-h4, p {
-  color: white;
-}
 
 #btn_ {
   font-family: 'Poppins', sans-serif;
@@ -135,7 +139,7 @@ h4, p {
   display: inline;
 }
 #viewprojects {
-  padding-top: 50px;
+  padding: 20px;
 }
 
 #projects a {

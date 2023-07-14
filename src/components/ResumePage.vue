@@ -38,16 +38,16 @@
                         <ul class="border-expert py-2">
                             <li>
                                 <p class="lead about-par" id="expert">Grasshopper Coding Fundamentals I &amp; II
-                                    Certifications
+                                    Certifications at freeCodeCamp
                                     - 2022 (Completed)</p>
                             </li>
                             <li>
-                                <p class="lead about-par" id="expert">Responsive Web Design Developer Certification - 2022
+                                <p class="lead about-par" id="expert">Responsive Web Design Developer Certification at freeCodeCamp - 2022
                                     (Completed)</p>
                             </li>
                             <li>
                                 <p class="lead about-par" id="expert">JavaScript Algorithms and Data Structures
-                                    Certification -
+                                    Certification at freeCodeCamp -
                                     2022 (Completed)</p>
                             </li>
                             <li>

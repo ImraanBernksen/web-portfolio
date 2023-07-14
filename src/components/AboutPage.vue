@@ -4,7 +4,7 @@
       <div class="container pt-4">
         <div class="row">
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img animate__animated animate__fadeInLeft" style="padding: 42px;">
+            <div id="border-about" class="border-img animate__animated animate__fadeInLeft" style="padding: 72px;">
               <img class="img-fluid" src="https://i.postimg.cc/8PP9yW3X/undraw-Profile-re-4a55.png"
                 style="width: 100%;">
             </div>
@@ -27,7 +27,7 @@
         </div>
         <div class="row">
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img mt-3 animate__animated animate__fadeInLeft">
+            <div id="border-about" class="border-img mt-4 animate__animated animate__fadeInLeft">
               <h4 class="about-par"><ins>INTERESTS</ins></h4>
               <p class="lead about-par">
                 My interests are working out, playing soccer, web design and designing clothing. Coding involves a lot of
@@ -41,7 +41,7 @@
             </div>
           </div>
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img mt-3 animate__animated animate__fadeInRight" style="padding-bottom: 134px;">
+            <div id="border-about" class="border-img mt-4 animate__animated animate__fadeInRight" style="padding-bottom: 160px;">
               <h4 class="about-par"><ins>PERSONAL DETAILS</ins></h4>
               <p class="lead about-par">
                 Name: Mogamad Imraan<br>
@@ -72,8 +72,7 @@ export default {
 
 #border-about {
     box-shadow: 0 3px 10px black;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding: 0px 20px 10px 20px;
 }
 
 #border-about:hover {
@@ -82,7 +81,6 @@ export default {
 
 #border-img {
     box-shadow: 0 3px 10px black;
-    padding: 20px;
 }
 
 #border-img:hover {
