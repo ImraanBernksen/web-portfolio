@@ -12,12 +12,13 @@
                             class="fa-brands fa-linkedin"></a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="quick" href="/">HOME</a>
-                        <a class="quick" href="/about">ABOUT</a>
-                        <a class="quick" href="/resume">RESUME</a>
-                        <a class="quick" href="/projects">PROJECTS</a>
-                        <a class="quick" href="/testimonials">TESTIMONIALS</a>
-                        <a class="quick" href="/contact">CONTACT</a>
+                        <a class="quick" href="#landing">HOME</a>
+                        <a class="quick" href="#about">ABOUT</a>
+                        <a class="quick" href="#resume">RESUME</a>
+                        <a class="quick" href="#techskills">SKILLS</a>
+                        <a class="quick" href="#project">PROJECTS</a>
+                        <a class="quick" href="#testimonials">TESTIMONIALS</a>
+                        <a class="quick" href="#contact">CONTACT</a>
                     </div>
                     <div class="col-lg-3">
                         <p class="lead pt-2">Copyright &copy; 2023 <a href="/" class="footer-mib">MIB</a></p>
