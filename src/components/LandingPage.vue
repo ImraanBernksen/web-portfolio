@@ -1,6 +1,6 @@
 <template>
     <div id="landing">
-        <div id="home" style="padding-bottom: 80px;">
+        <div id="home">
             <div class="wrapper pt-5">
                 <div class="row num1">
                     <div class="col-md-6 col-sm-6 home-text">
@@ -72,6 +72,7 @@
                         </div>
                     </div>
                 </div>
+                <a href="#about"><button id="mybutton" class="btn btn-outline-light"><i class="fa-solid fa-arrow-down fa-2x"></i></button></a>
                 <!-- --------------------------------------------------------------------------------------------- -->
                 <div class="row num2">
                     <div class="col-md-6 col-sm-6">
@@ -166,6 +167,13 @@ export default {
     background-position: center;
     background-attachment: fixed;
     */
+}
+
+#mybutton {
+    margin-right: 10px;
+    position: absolute;
+    bottom:0;
+    right:0;
 }
 
 .home-text {

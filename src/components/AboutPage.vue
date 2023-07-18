@@ -55,7 +55,9 @@
             </div>
           </div>
         </div>
-    </div>
+        <a href="#landing"><button id="mybuttonup" class="btn btn-outline-dark"><i class="fa-solid fa-arrow-up fa-2x"></i></button></a>
+        <a href="#resume"><button id="mybuttondown" class="btn btn-outline-dark"><i class="fa-solid fa-arrow-down fa-2x"></i></button></a>
+      </div>
     </div>
 </template>
 <script>
@@ -65,9 +67,10 @@ export default {
 </script>
 <style scoped>
 #about {
-    min-height: 200vh;
+    min-height: 155vh;
     width: 100%;
     background-color: #00FFA2;
+    padding-bottom: 60px;
 }
 
 #border-about {
@@ -87,5 +90,18 @@ export default {
     background-color: white;
 }
 
+#mybuttonup {
+  margin-left: 10px;
+  margin-top: 10px;
+  position: absolute;
+  left:0;
+}
+
+#mybuttondown {
+  margin-right: 10px;
+  margin-top: 10px;
+  position: absolute;
+  right:0;
+}
 </style>
 

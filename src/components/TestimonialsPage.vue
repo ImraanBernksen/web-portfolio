@@ -76,7 +76,7 @@ img {
 .card {
     box-shadow: 0 3px 10px white;
     background-color: #00FFA2;
-    width: 39rem;
+    width: 18rem;
     margin: auto;
 }
 </style>
