@@ -44,6 +44,9 @@
                                 CV</a>
                             <a href="/about" class="tdn btn btn-outline-light" id="btn_">READ MORE</a>
 
+                            <!-- <a href="#about"><button id="mybutton" class="btn btn-outline-light"><i
+                                class="fa-solid fa-arrow-down fa-2x"></i></button></a> -->
+
                             <!-- <div class="lead pt-4">
                     <a id="M1I0B_" target="_blank" href="https://www.instagram.com/imraanbernksen"
                       class="fa-brands fa-instagram"></a>
@@ -65,14 +68,12 @@
                                     <img class="img img-fluid" src="https://i.postimg.cc/kXZsqSPz/t0.jpg" alt="IMO">
                                 </div>
                                 <div class="flip-box-back img-fluid">
-                                    <img class="photo img-fluid"
-                                        src="https://i.postimg.cc/cJCMphbB/pp-img.jpg" alt="logo">
+                                    <img class="photo img-fluid" src="https://i.postimg.cc/cJCMphbB/pp-img.jpg" alt="logo">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <a href="#about"><button id="mybutton" class="btn btn-outline-light"><i class="fa-solid fa-arrow-down fa-2x"></i></button></a>
                 <!-- --------------------------------------------------------------------------------------------- -->
                 <div class="row num2">
                     <div class="col-md-6 col-sm-6">
@@ -89,8 +90,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
-                        <p class="text-center animate__animated animate__fadeInDown" id="myName" style="color: black;">
-                            WELCOME TO MY
+                        <p class="text-center animate__animated animate__fadeInDown" id="myName" style="color: #00FFA2;">
                             PORTFOLIO</p>
                         <h4 class="slogan-now">MOGAMAD IMRAAN</h4>
                         <h4 class="slogan-now">BERNKSEN</h4>
@@ -122,14 +122,13 @@
                 <span style="--i:21">N</span>
               </div>
             </div> -->
-                        <p class="text-center animate__animated animate__fadeInUp" id="myName" style="color: black;">FULL
+                        <p class="text-center animate__animated animate__fadeInUp" id="myName" style="color: #00FFA2;">FULL
                             STACK WEB DEVELOPER</p>
                         <div class="home_extra">
                             <a href="https://drive.google.com/file/d/1g9irfMZecRrE4A0qfyu3VGDDTjJQXf39/view?usp=share_link"
-                                target="_blank" class="tdn btn btn-outline-dark" id="btn_">DOWNLOAD
+                                target="_blank" class="tdn btn btn-outline-light" id="btn_">DOWNLOAD
                                 CV</a>
-                            <a href="/about" class="tdn btn btn-outline-dark" id="btn_">MORE INFO</a>
-
+                            <a href="/about" class="tdn btn btn-outline-light" id="btn_">MORE INFO</a>
                             <!-- <div class="lead pt-4">
                     <a id="M1I0B_" target="_blank" href="https://www.instagram.com/imraanbernksen"
                       class="fa-brands fa-instagram"></a>
@@ -172,8 +171,8 @@ export default {
 #mybutton {
     margin-right: 10px;
     position: absolute;
-    bottom:0;
-    right:0;
+    bottom: 0;
+    right: 0;
 }
 
 .home-text {
@@ -228,7 +227,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 80vh;
+    min-height: 90vh;
 }
 
 .wrapper img {
