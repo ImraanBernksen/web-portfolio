@@ -2,7 +2,7 @@
     <div id="testimonials">
         <h1>Testimonials</h1>
         <div class="container">
-            <div class="row">
+            <div class="row" style="width: 98%;">
                 <div class="card m-3" v-for="item in arr" :key="item">
                     <div class="row g-0" style="width: 100%;">
                         <div class="col-md-6 col-sm-6">
@@ -76,7 +76,7 @@ img {
 .card {
     box-shadow: 0 3px 10px white;
     background-color: #00FFA2;
-    width: 18rem;
+    width: 37rem;
     margin: auto;
 }
 </style>
