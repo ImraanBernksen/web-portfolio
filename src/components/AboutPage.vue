@@ -1,16 +1,17 @@
 <template>
     <div id="about">
       <h1>About</h1>
-      <div class="container pt-4">
+      <div class="container">
         <div class="row">
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img animate__animated animate__fadeInLeft" style="padding: 72px;">
-              <img class="img-fluid" src="https://i.postimg.cc/8PP9yW3X/undraw-Profile-re-4a55.png"
-                style="width: 100%;">
+            <div id="border-about" class="mt-4 animate__animated animate__fadeInLeft" style="padding: 20px; align-items: center; justify-content: center; display: flex;">
+              <!-- <img class="img-fluid" src="https://i.postimg.cc/8PP9yW3X/undraw-Profile-re-4a55.png" -->
+              <img class="img-fluid" src="https://i.postimg.cc/cJCMphbB/pp-img.jpg"
+                style="width: 72%; border-radius: 5%;">
             </div>
           </div>
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img animate__animated animate__fadeInRight">
+            <div id="border-about" class="mt-4 animate__animated animate__fadeInRight">
               <h4 class="about-par"><ins>ABOUT ME</ins></h4>
               <p class="lead about-par">
                 I'm 20 years old and born in Cape Town, South Africa. I'm a IT Intern for LC Studio
@@ -27,7 +28,7 @@
         </div>
         <div class="row">
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img mt-4 animate__animated animate__fadeInLeft">
+            <div id="border-about" class="mt-4 animate__animated animate__fadeInLeft">
               <h4 class="about-par"><ins>INTERESTS</ins></h4>
               <p class="lead about-par">
                 My interests are working out, playing soccer, web design and designing clothing. Coding involves a lot of
@@ -41,7 +42,7 @@
             </div>
           </div>
           <div class="col-12 col-lg-6">
-            <div id="border-about" class="border-img mt-4 animate__animated animate__fadeInRight" style="padding-bottom: 160px;">
+            <div id="border-about" class="mt-4 animate__animated animate__fadeInRight" style="padding-bottom: 160px;">
               <h4 class="about-par"><ins>PERSONAL DETAILS</ins></h4>
               <p class="lead about-par">
                 Name: Mogamad Imraan<br>
@@ -79,14 +80,6 @@ export default {
 }
 
 #border-about:hover {
-    background-color: white;
-}
-
-#border-img {
-    box-shadow: 0 3px 10px black;
-}
-
-#border-img:hover {
     background-color: white;
 }
 
