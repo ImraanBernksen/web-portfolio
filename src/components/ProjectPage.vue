@@ -4,7 +4,7 @@
         <div class="lead" id="projectlinks">
           <div class="row g-0" style="width: 100%;">
           <div class="card h-100 m-auto mt-4" v-for="item in arr" :key="item" style="width: 28rem; margin: auto; background-color: transparent;">
-            <img :src="item.imgSrc" loading="lazy" class="card-img-top mt-2">
+            <img :src="item.imgSrc" loading="lazy" class="card-img-top p-3" id="yes">
             <div class="card-body">
               <h4 class="card-title">{{item.projectName}}</h4>
               <p class="card-text">{{item.projectText}}</p>
@@ -149,8 +149,9 @@ export default {
 }
 
 img {
-  border-radius: 8px;
+  border-radius: 30px;
 }
+
 .card { 
   border-radius: 20px;
   box-shadow: 3px -3px 3px 3px black;
