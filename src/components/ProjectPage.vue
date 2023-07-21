@@ -50,39 +50,11 @@ export default {
       return {
         arr: [
           {
-            imgSrc: "https://i.postimg.cc/ZRj3M6zy/project2.png",
-            projectName: "JS Calculator",
-            projectText: "Calculator",
-            linkOne: "https://github.com/ImraanBernksen/JS_Calculator",
-            linkTwo: "https://imraanbernksen-jscalculator.netlify.app/",
-          },
-          {
-            imgSrc: "https://i.postimg.cc/Jng5HKgJ/Screenshot-8.png",
-            projectName: "Nostalgic",
-            linkOne: "https://github.com/Mu-een/Nostalgic_NodeEOMP",
-            projectText: "Ecommerce Website",
-            linkTwo: "https://nostalgic-nodejs-eomp.web.app/",
-          },
-          {
-            imgSrc: "https://i.postimg.cc/GmGX1PZm/Screenshot-1.png",
-            projectName: "Mesmerize",
-            linkOne: "https://github.com/ImraanBernksen/Mesmerize_Project",
-            projectText: "Ecommerce Website",
-            linkTwo: "https://mesmerize-project10.web.app/",
-          },
-          {
-            imgSrc: "https://i.postimg.cc/BvKdDY2w/tcn-bnry-test.png",
-            projectName: "TCN",
-            linkOne: "https://github.com/ImraanBernksen/bnry_test-CC.git",
-            projectText: "BNRY Assessment",
-            linkTwo: "https://bnrytest-tcn.web.app/",
-          },
-          {
-            imgSrc: "https://i.postimg.cc/90SWFPvF/pf-1.png",
-            projectName: "Web Design Porfolio",
-            linkOne: "https://github.com/ImraanBernksen/myportfolio-vue3.git",
-            projectText: "Portfolio",
-            linkTwo: "https://myportfolio-mib.web.app/",
+            imgSrc: "https://i.postimg.cc/PrQ8FvT4/spli-the-squad.png",
+            projectName: "Split The Squad",
+            linkOne: "https://github.com/ImraanBernksen/split_the_squad",
+            projectText: "Random Team Generator",
+            linkTwo: "https://split-the-squad-5920b.web.app/",
           },
           {
             imgSrc: "https://i.postimg.cc/nVBV4YVt/quickloc8-1.png",
@@ -92,11 +64,39 @@ export default {
             linkTwo: "https://quickloc8-test.web.app/",
           },
           {
-            imgSrc: "https://i.postimg.cc/PrQ8FvT4/spli-the-squad.png",
-            projectName: "Split The Squad",
-            linkOne: "https://github.com/ImraanBernksen/split_the_squad",
-            projectText: "Random Team Generator",
-            linkTwo: "https://split-the-squad-5920b.web.app/",
+            imgSrc: "https://i.postimg.cc/90SWFPvF/pf-1.png",
+            projectName: "Web Design Porfolio",
+            linkOne: "https://github.com/ImraanBernksen/myportfolio-vue3.git",
+            projectText: "Portfolio",
+            linkTwo: "https://myportfolio-mib.web.app/",
+          },
+          {
+            imgSrc: "https://i.postimg.cc/BvKdDY2w/tcn-bnry-test.png",
+            projectName: "TCN",
+            linkOne: "https://github.com/ImraanBernksen/bnry_test-CC.git",
+            projectText: "BNRY Assessment",
+            linkTwo: "https://bnrytest-tcn.web.app/",
+          },
+          {
+            imgSrc: "https://i.postimg.cc/GmGX1PZm/Screenshot-1.png",
+            projectName: "Mesmerize",
+            linkOne: "https://github.com/ImraanBernksen/Mesmerize_Project",
+            projectText: "Ecommerce Website",
+            linkTwo: "https://mesmerize-project10.web.app/",
+          },
+          {
+            imgSrc: "https://i.postimg.cc/Jng5HKgJ/Screenshot-8.png",
+            projectName: "Nostalgic",
+            linkOne: "https://github.com/Mu-een/Nostalgic_NodeEOMP",
+            projectText: "Ecommerce Website",
+            linkTwo: "https://nostalgic-nodejs-eomp.web.app/",
+          },
+          {
+            imgSrc: "https://i.postimg.cc/ZRj3M6zy/project2.png",
+            projectName: "JS Calculator",
+            projectText: "Calculator",
+            linkOne: "https://github.com/ImraanBernksen/JS_Calculator",
+            linkTwo: "https://imraanbernksen-jscalculator.netlify.app/",
           }
         ]
       }

@@ -124,7 +124,7 @@
             </div> -->
                         <p class="text-center animate__animated animate__fadeInUp" id="myName" style="color: #00FFA2;">FULL
                             STACK WEB DEVELOPER</p>
-                        <div class="home_extra">
+                        <div class="home_extra mb-5">
                             <a href="https://drive.google.com/file/d/1g9irfMZecRrE4A0qfyu3VGDDTjJQXf39/view?usp=share_link"
                                 target="_blank" class="tdn btn btn-outline-light" id="btn_">DOWNLOAD
                                 CV</a>
