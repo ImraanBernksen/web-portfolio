@@ -7,7 +7,7 @@
           <div id="border-about" class="mt-4 animate__animated animate__fadeInLeft"
             style="padding: 20px; align-items: center; justify-content: center; display: flex;">
             <!-- <img class="img-fluid" src="https://i.postimg.cc/8PP9yW3X/undraw-Profile-re-4a55.png" -->
-            <img class="img-fluid" src="https://i.postimg.cc/cJCMphbB/pp-img.jpg" style="width: 72%; border-radius: 5%;">
+            <img class="img-fluid" src="https://i.postimg.cc/cJCMphbB/pp-img.jpg" style="width: 72%; border-radius: 1%;">
           </div>
         </div>
         <div class="col-12 col-lg-6">

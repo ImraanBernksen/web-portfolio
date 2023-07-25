@@ -39,10 +39,10 @@
                         <p class="text-start animate__animated animate__fadeInUp" id="myName" style="color: #00FFA2;">FULL
                             STACK WEB DEVELOPER</p>
                         <div class="home_extra">
-                            <a href="https://drive.google.com/file/d/1g9irfMZecRrE4A0qfyu3VGDDTjJQXf39/view?usp=share_link"
+                            <a href="https://drive.google.com/file/d/1KCnTJxhonhZfpOa-mNc7pOUsyLuOancm/view?usp=sharing"
                                 target="_blank" class="tdn btn btn-outline-light" id="btn_">DOWNLOAD
                                 CV</a>
-                            <a href="/about" class="tdn btn btn-outline-light" id="btn_">READ MORE</a>
+                            <a href="#about" class="tdn btn btn-outline-light" id="btn_">READ MORE</a>
 
                             <!-- <a href="#about"><button id="mybutton" class="btn btn-outline-light"><i
                                 class="fa-solid fa-arrow-down fa-2x"></i></button></a> -->
