@@ -78,15 +78,15 @@
             <div class="container">
                 <h4><ins>TECHNICAL SKILLS</ins></h4>
                 <div class="row">
-                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-github fa-9x pt-4"></i><p>GIT</p></div>
-                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-figma fa-9x pt-4"></i><p>FIGMA</p></div>
-                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-html5 fa-9x"></i><p>HTML</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-github fa-9x pt-4 px-3"></i><p>GIT</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-figma fa-9x pt-4 px-3"></i><p>FIGMA</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-html5 fa-9x px-3"></i><p>HTML</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-css3 fa-9x"></i><p>CSS</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-bootstrap fa-9x"></i><p>BOOTSTRAP</p></div>
                 </div>
                 <div class="row">
-                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-square-js fa-9x"></i><p>JAVASCRIPT</p></div>
-                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-vuejs fa-9x"></i><p>VUEJS</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-square-js fa-9x px-3"></i><p>JAVASCRIPT</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-vuejs fa-9x px-3"></i><p>VUEJS</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-solid fa-database fa-9x pt-4"></i><p>MYSQL</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-node fa-9x pt-3"></i><p>NODE</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-solid fa-laptop fa-9x pt-4"></i><p>UI/UX</p></div>

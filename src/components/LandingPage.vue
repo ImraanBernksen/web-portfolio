@@ -336,6 +336,10 @@ body {
         width: 100%;
     }
 
+    .slogan-now {
+        text-align: center;
+    }
+
     .flip-card-inner {
         transform: rotateY(0deg) !important;
     }
@@ -350,6 +354,10 @@ body {
 
     .num2 {
         display: flex;
+    }
+
+    .home_extra {
+        text-align: center;
     }
 
 }
