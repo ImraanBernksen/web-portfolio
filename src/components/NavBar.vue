@@ -1,5 +1,5 @@
 <template>
-      <nav class="navbar navbar-expand-lg navbar navbar-light static-top">
+      <nav class="navbar navbar-expand-lg navbar navbar sticky-top">
         <div class="container-fluid">
           <a href="#landing"><img class="logo" src="https://i.postimg.cc/L40McznY/logo.png" alt="logo"></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"

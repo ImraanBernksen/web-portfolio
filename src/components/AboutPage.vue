@@ -67,10 +67,10 @@
           </div>
         </div>
       </div>
-      <a href="#landing"><button id="mybuttonup" class="btn btn-outline-dark"><i
+      <!-- <a href="#landing"><button id="mybuttonup" class="btn btn-outline-dark"><i
             class="fa-solid fa-arrow-up fa-2x"></i></button></a>
       <a href="#resume"><button id="mybuttondown" class="btn btn-outline-dark"><i
-            class="fa-solid fa-arrow-down fa-2x"></i></button></a>
+            class="fa-solid fa-arrow-down fa-2x"></i></button></a> -->
     </div>
   </div>
 </template>
