@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-lg-6 p-4 animate__animated animate__fadeInLeft">
                         <h4><ins>EDUCATION</ins></h4>
-                        <div class="row pt-4 pb-4" id="border-edu">
+                        <div class="row py-3" id="border-edu">
                             <div class="col-sm-6 m-auto">
                                 <div class="border-img">
                                     <img src="https://i.postimg.cc/RZRJCf0B/cropped-oaklands-badge-small-2.png"
@@ -14,12 +14,25 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 m-auto pt-3">
-                                <p class="lead about-par">Oaklands High School, Chukker Rd, Lansdowne <br> - Matriculated
+                                <p class="lead about-par">Oaklands High School, Chukker Rd, Lansdowne <br> -  Senior Certificate Matriculated
                                     (2016
                                     - 2020)</p>
                             </div>
                         </div>
-                        <div class="row pt-2 pb-1 mt-4" id="border-edu">
+                        <div class="row py-3 mt-4" id="border-edu">
+                            <div class="col-sm-6 m-auto">
+                                <div class="border-img">
+                                    <img src="https://i.postimg.cc/T3S5f95V/picture.jpg"
+                                        style="width: 10rem;">
+                                </div>
+                            </div>
+                            <div class="col-sm-6 m-auto pt-3">
+                                <p class="lead about-par">Life Choices Academy, 314 Imam Harom Rd, Lansdowne <br> - LC
+                                    Studio
+                                    Intern (April 2023 - Currently)</p>
+                            </div>
+                        </div>
+                        <div class="row py-3 mt-4" id="border-edu">
                             <div class="col-sm-6 m-auto">
                                 <div class="border-img">
                                     <img src="https://i.postimg.cc/FHmJQGNp/LIFE-CHOICES-ICON-ON-GREEN.jpg"
@@ -27,9 +40,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 m-auto pt-3">
-                                <p class="lead about-par">Life Choices Academy, 314 Imam Harom Rd, Lansdowne <br> - LC
-                                    Studio
-                                    Intern (2023 - Currently) <br> - Lecturer Assistant (2023 - Currently)</p>
+                                <p class="lead about-par">Life Choices Academy, 314 Imam Harom Rd, Lansdowne <br> - Lecturer Assistant (May 2023 - Currently)</p>
                             </div>
                         </div>
                     </div>
@@ -39,20 +50,24 @@
                             <li>
                                 <p class="lead about-par" id="expert">Grasshopper Coding Fundamentals I &amp; II
                                     Certifications at freeCodeCamp
-                                    - 2022 (Completed)</p>
+                                    - March 2022 (Completed)</p>
                             </li>
                             <li>
-                                <p class="lead about-par" id="expert">Responsive Web Design Developer Certification at freeCodeCamp - 2022
+                                <p class="lead about-par" id="expert">Responsive Web Design Developer Certification at freeCodeCamp - March 2022
                                     (Completed)</p>
                             </li>
                             <li>
                                 <p class="lead about-par" id="expert">JavaScript Algorithms and Data Structures
                                     Certification at freeCodeCamp -
-                                    2022 (Completed)</p>
+                                    March 2022 (Completed)</p>
                             </li>
                             <li>
                                 <p class="lead about-par" id="expert">Life Choices Coding Academy: <br> Full Stack Developer
-                                    Course - 2022/23 (Completed)</p>
+                                    Course - September 2022/March 2023 (Completed)</p>
+                            </li>
+                            <li>
+                                <p class="lead about-par" id="expert">Affiliate and Partnerships Industry - Fundamentals at PXA By IMPACT.COM
+                                    - July 2023 (Completed)</p>
                             </li>
                         </ul>
                     </div>
