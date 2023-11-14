@@ -14,14 +14,7 @@
           <div id="border-about" class="mt-4 animate__animated animate__fadeInRight">
             <h4 class="about-par"><ins>ABOUT ME</ins></h4>
             <p class="lead about-par">
-              I'm 21 years old and born in Cape Town, South Africa. I'm a IT Intern for LC Studio and Lecturer Assistant
-              at Life Choices Coding Academy and i would like to have a job in web development.
-              Graduated from Oaklands Highschool in 2020 then, after I did some online courses.
-              I'm very mature for my age, friendly and hardworking. I've
-              always been interested in technology, web design and software development.
-              I enjoy interacting and work with people. One of my most important attributes is
-              responsibility, I appreciate being depended on and trustworthy. I will always go the
-              extra mile and be helpful where I can.
+              At the age of 21, I was born in Cape Town, South Africa, and currently hold the position of Web Development Intern at YDMA Group. Demonstrating a maturity beyond my years, I am known for being friendly and diligent. My enduring interest lies in technology, encompassing web design and software development. Collaborating and engaging with people bring me immense satisfaction. Central to my character is a sense of responsibility, as I find fulfillment in being relied upon and deemed trustworthy. I am consistently prepared to exceed expectations and provide assistance wherever needed.
             </p>
           </div>
         </div>

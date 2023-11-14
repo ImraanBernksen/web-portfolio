@@ -5,48 +5,50 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 p-4 animate__animated animate__fadeInLeft">
-                        <h4><ins>EDUCATION</ins></h4>
-                        <div class="row py-3" id="border-edu">
-                            <div class="col-sm-6 m-auto">
-                                <div class="border-img">
-                                    <img src="https://i.postimg.cc/RZRJCf0B/cropped-oaklands-badge-small-2.png"
-                                        style="width: 10rem;">
-                                </div>
-                            </div>
-                            <div class="col-sm-6 m-auto pt-3">
-                                <p class="lead about-par">Oaklands High School, Chukker Rd, Lansdowne <br> -  Senior Certificate Matriculated
-                                    (2016
-                                    - 2020)</p>
-                            </div>
-                        </div>
-                        <div class="row py-3 mt-4" id="border-edu">
+                        <h4><ins>EXPERIENCE</ins></h4>
+                        <div class="row py-3 mt-2" id="border-edu">
                             <div class="col-sm-6 m-auto">
                                 <div class="border-img">
                                     <img src="https://i.postimg.cc/T3S5f95V/picture.jpg"
-                                        style="width: 10rem;">
+                                    style="width: 10rem;">
                                 </div>
                             </div>
-                            <div class="col-sm-6 m-auto pt-3">
+                            <div class="col-sm-6 m-auto pt-3 pb-5">
                                 <p class="lead about-par">Life Choices Academy, 314 Imam Harom Rd, Lansdowne <br> - LC
-                                    Studio
-                                    Intern (April 2023 - Currently)</p>
-                            </div>
-                        </div>
-                        <div class="row py-3 mt-4" id="border-edu">
-                            <div class="col-sm-6 m-auto">
-                                <div class="border-img">
-                                    <img src="https://i.postimg.cc/FHmJQGNp/LIFE-CHOICES-ICON-ON-GREEN.jpg"
-                                        style="width: 10rem;">
+                                    Studio Intern (April 2023 - July 2023)</p>
                                 </div>
                             </div>
-                            <div class="col-sm-6 m-auto pt-3">
-                                <p class="lead about-par">Life Choices Academy, 314 Imam Harom Rd, Lansdowne <br> - Lecturer Assistant (May 2023 - Currently)</p>
+                            <div class="row py-3 mt-4" id="border-edu">
+                                <div class="col-sm-6 m-auto">
+                                    <div class="border-img">
+                                        <img src="https://i.postimg.cc/FHmJQGNp/LIFE-CHOICES-ICON-ON-GREEN.jpg"
+                                        style="width: 10rem;">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 m-auto">
+                                    <p class="lead about-par">Life Choices Academy, 314 Imam Harom Rd, Lansdowne 
+                                        <br> - Student (September 2023 - March 2023) 
+                                        <br> - Lecturer Assistant (April 2023 - July 2023)</p>
+                                </div>
+                            </div>
+                            <div class="row py-3 mt-4" id="border-edu">
+                                <div class="col-sm-6 m-auto">
+                                    <div class="border-img">
+                                        <img src="https://i.postimg.cc/gJwHF8Cv/ydma-group-logo.jpg"
+                                            style="width: 10rem;">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 m-auto pt-3 pb-5">
+                                    <p class="lead about-par">YDMA GROUP, Based in Australia (Remote) <br> - Web Developement Intern (August 2023 - Currently)</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
                     <div class="col-lg-6 p-4 animate__animated animate__fadeInRight">
-                        <h4><ins>EXPERIENCE</ins></h4>
-                        <ul class="border-expert py-2">
+                        <h4><ins>EDUCATION</ins></h4>
+                        <ul class="border-expert py-3">
+                            <li>
+                                <p class="lead about-par" id="expert">Oaklands High School, Chukker Rd, Lansdowne - Senior Certificate Matriculated (2016 - 2020)</p>
+                            </li>
                             <li>
                                 <p class="lead about-par" id="expert">Grasshopper Coding Fundamentals I &amp; II
                                     Certifications at freeCodeCamp
@@ -62,8 +64,7 @@
                                     March 2022 (Completed)</p>
                             </li>
                             <li>
-                                <p class="lead about-par" id="expert">Life Choices Coding Academy: <br> Full Stack Developer
-                                    Course - September 2022/March 2023 (Completed)</p>
+                                <p class="lead about-par" id="expert"> Full Stack Coding Course at Life Choices Academy from September 2022 - March 2023 (Completed)</p>
                             </li>
                             <li>
                                 <p class="lead about-par" id="expert">Affiliate and Partnerships Industry - Fundamentals at PXA By IMPACT.COM
@@ -99,6 +100,7 @@
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-sass fa-9x pt-4"></i><p>SASS</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-php fa-9x pt-4"></i><p>PHP</p></div>
                     <div class="col" id="skill_name"><i id="imo" class="fa-brands fa-searchengin fa-9x pt-4"></i><p>SEO</p></div>
+                    <div class="col" id="skill_name"><i id="imo" class="fa-regular fa-square fa-9x pt-4"></i><p>ZOHO</p></div>
                     <!-- <div class="col"><img class="pt-5 m-auto" style="width: 10rem; color: white" id="imo"
                             src="https://i.postimg.cc/050WXdJH/seo-2.png"></div> -->
                 </div>

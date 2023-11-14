@@ -39,7 +39,7 @@
                         <p class="text-start animate__animated animate__fadeInUp" id="myName" style="color: #00FFA2;">FULL
                             STACK WEB DEVELOPER</p>
                         <div class="home_extra">
-                            <a href="https://drive.google.com/file/d/1KCnTJxhonhZfpOa-mNc7pOUsyLuOancm/view?usp=sharing"
+                            <a href="https://drive.google.com/file/d/1VXYJ3mApUsct6VmY0NfBHl_xvuQ0KCn5/view?usp=sharing"
                                 target="_blank" class="tdn btn btn-outline-light" id="btn_">DOWNLOAD
                                 CV</a>
                             <a href="#about" class="tdn btn btn-outline-light" id="btn_">READ MORE</a>

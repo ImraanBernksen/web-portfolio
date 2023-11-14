@@ -4,12 +4,12 @@
             <div class="container text-center pt-3">
                 <div class="row">
                     <div class="col-lg-3">
-                        <a id="socials" target="_blank" href="https://instagram.com/imraanbernksen/"
-                            class="fa-brands fa-instagram"></a>
-                        <a id="socials" target="_blank" href="https://github.com/ImraanBernksen"
-                            class="fa-brands fa-github"></a>
                         <a id="socials" target="_blank" href="https://www.linkedin.com/in/imraanbernksen/"
                             class="fa-brands fa-linkedin"></a>
+                        <a id="socials" target="_blank" href="https://github.com/ImraanBernksen"
+                            class="fa-brands fa-github"></a> 
+                        <a id="socials" target="_blank" href="mailto:imraanbernksen@gmail.com"
+                        class="fa-regular fa-envelope"></a>
                     </div>
                     <div class="col-lg-6">
                         <a class="quick" href="#landing">HOME</a>
